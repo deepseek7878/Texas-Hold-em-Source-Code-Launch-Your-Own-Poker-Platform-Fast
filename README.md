@@ -43,4 +43,4 @@ Commercial license available
 
 📩 Contact
 
-Telegram / Email / WhatsApp
+Telegram：@fox_lovemyself/E-mail：lihongbo9414@gmail.com
