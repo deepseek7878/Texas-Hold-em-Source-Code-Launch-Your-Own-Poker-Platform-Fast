@@ -33,6 +33,10 @@ Database: (Your DB)
 ![微信图片_20260325214354](https://github.com/user-attachments/assets/fec48248-391a-4ff0-a99b-bd1490792ca2)
 ![微信图片_20260325214349](https://github.com/user-attachments/assets/6c3af238-c38f-400e-8415-883648f60796)
 
+
+<img width="1031" height="524" alt="微信图片_20260326112227" src="https://github.com/user-attachments/assets/c1175561-3f92-418a-878b-f91d8b580cb4" />
+<img width="982" height="524" alt="微信图片_20260326112215" src="https://github.com/user-attachments/assets/b600c807-bf8d-432b-b769-8f35391bdc3c" />
+
 🚀 Deployment
 
 Easy to deploy with documentation (or support provided)
