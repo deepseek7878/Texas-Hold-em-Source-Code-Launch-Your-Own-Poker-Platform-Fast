@@ -1,0 +1,2 @@
+scp -i ~/test-server-2.pem /root/ttpoker/server/server_ipt/recordserver/GameRecordServer ec2-user@ipt.ttpoker.org:/home/ec2-user
+ssh -i ~/test-server-2.pem ec2-user@ipt.ttpoker.org "sudo bash ~/recordserver_deploy.sh"
