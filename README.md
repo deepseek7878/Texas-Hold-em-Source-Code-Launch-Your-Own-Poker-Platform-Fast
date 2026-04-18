@@ -1,3 +1,4 @@
+A scalable real-time poker platform engine designed for production-level multiplayer systems.
 # Real-time Poker Platform Engine | 扑克平台引擎 | 撲克平台引擎|HoldemX – Texas Hold’em Multiplayer System
 
 Build and launch your own Texas Hold’em platform with a production-ready source code.  Designed for entrepreneurs and studios who want to enter the online poker market quickly.
@@ -32,7 +33,17 @@ This project provides a backend poker platform engine that can be used to build:
 - Multiplayer poker applications  
 - Real-time game servers  
 
----
+## 🧠 Core Engine Design
+
+- State machine based game flow  
+- Server-authoritative logic  
+- Event-driven architecture  
+- Concurrency-safe session handling
+## ⚡ Why This Project
+
+- Ready for production extension  
+- Modular architecture  
+- Supports real-time scaling  
 
 ## 🎮 Core Features | 核心功能 | 核心功能
 
@@ -80,7 +91,11 @@ cd project
 npm install
 npm start
 
+## 🎮 Experience
 
+- Smooth real-time gameplay  
+- Responsive UI interaction  
+- Instant state updates  
 📸 Screenshots
 
 ![E64F04E41E05A6173D7344F654CBCF03](https://github.com/user-attachments/assets/a6512c67-125e-44ad-9503-b802c5ccf67c)
