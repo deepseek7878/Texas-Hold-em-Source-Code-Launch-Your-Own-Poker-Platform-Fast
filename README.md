@@ -113,7 +113,18 @@ E-mail：lihongbo9414@gmail.com
 
 <img width="1031" height="524" alt="微信图片_20260326112227" src="https://github.com/user-attachments/assets/c1175561-3f92-418a-878b-f91d8b580cb4" />
 <img width="982" height="524" alt="微信图片_20260326112215" src="https://github.com/user-attachments/assets/b600c807-bf8d-432b-b769-8f35391bdc3c" />
+## 🧠 Core Engine Design
 
+- Deterministic game state machine  
+- Server-authoritative architecture  
+- Event-driven game flow  
+- Concurrency-safe session model
+## 🚀 Try It
+
+Download and run instantly:
+
+- Lightweight setup  
+- Local multiplayer supported  
 🚀 Deployment
 
 Easy to deploy with documentation (or support provided)
