@@ -1,8 +1,14 @@
-# Texas-Hold-em-Source-Code-Launch-Your-Own-Poker-Platform-Fast
+# Real-time Poker Platform Engine | 扑克平台引擎 | 撲克平台引擎|HoldemX – Texas Hold’em Multiplayer System
+
 Build and launch your own Texas Hold’em platform with a production-ready source code.  Designed for entrepreneurs and studios who want to enter the online poker market quickly.
 
 
-🔥 HoldemX – Texas Hold’em Multiplayer System
+
+A scalable real-time Texas Hold'em poker platform engine designed for multiplayer gameplay, server-side logic, and modular system architecture.  
+一个可扩展的实时德州扑克平台引擎，支持多人对战与服务端游戏逻辑。  
+一個可擴展的即時德州撲克平台引擎，支援多人對戰與伺服器遊戲邏輯。
+
+
 
 Build your own poker platform with a scalable and production-ready codebase.
 
@@ -17,6 +23,64 @@ Modular architecture
 Frontend: (Your stack)
 Backend: (Your stack)
 Database: (Your DB)
+
+## 🚀 System Overview | 系统概览 | 系統概覽
+
+This project provides a backend poker platform engine that can be used to build:
+
+- Online poker platforms  
+- Multiplayer poker applications  
+- Real-time game servers  
+
+---
+
+## 🎮 Core Features | 核心功能 | 核心功能
+
+- Real-time multiplayer poker system  
+- Server-side game authority  
+- Room-based matchmaking system  
+- Game state synchronization  
+
+---
+
+## 🧠 Engine Architecture | 引擎架构 | 引擎架構
+
+- Game engine core  
+- Player session management  
+- Betting & round system  
+- Event-driven architecture  
+
+---
+
+## ⚡ Key Advantages | 项目优势 | 項目優勢
+
+- High scalability design  
+- Low-latency game processing  
+- Modular architecture for extension  
+- Ready for production integration  
+
+---
+
+
+
+## 📊 System Flow | 系统流程 | 系統流程
+
+Player → Server → Game Engine → State Update → Broadcast
+
+## 🎯 Use Cases | 使用场景 | 使用場景
+Poker platform development
+Multiplayer game backend
+Real-time game systems
+Game server architecture learning
+## ⚠️ Disclaimer | 免责声明 | 免責聲明
+
+This project is for educational and development purposes only
+git clone https://github.com/your-repo
+cd project
+npm install
+npm start
+
+
 📸 Screenshots
 
 ![E64F04E41E05A6173D7344F654CBCF03](https://github.com/user-attachments/assets/a6512c67-125e-44ad-9503-b802c5ccf67c)
@@ -47,4 +111,6 @@ Commercial license available
 
 📩 Contact
 
-Telegram：@fox_lovemyself/E-mail：lihongbo9414@gmail.com
+Telegram：@fox_lovemyself
+
+E-mail：lihongbo9414@gmail.com
