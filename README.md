@@ -1,5 +1,5 @@
 A scalable real-time poker platform engine designed for production-level multiplayer systems.
-# Real-time Poker Platform Engine | 扑克平台引擎 | 撲克平台引擎|德州源码|HoldemX – Texas Hold’em Multiplayer System
+# Real-time Poker Platform Engine | 扑克平台引擎 | 德州扑克源码|撲克平台引擎|德州源码|HoldemX – Texas Hold’em Multiplayer System
 
 Build and launch your own Texas Hold’em platform with a production-ready source code.  Designed for entrepreneurs and studios who want to enter the online poker market quickly.
 
